@@ -1,0 +1,122 @@
+.background-login {
+    background-image: url("gambar/cover-login3.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.login-page {
+    /* color: white; */
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 10%;
+    padding: 10px;
+    height: 420px;
+    text-align: center;
+    vertical-align: middle;
+    opacity: 90%;
+    position: relative;
+}
+
+.login-page2 {
+    background-color: grey;
+}
+
+.home-page {
+    background-image: url("gambar/lib-4.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+.home-content {
+    padding: 100px;
+    color: white;
+}
+
+.login-input {
+    border-radius: 5px;
+}
+
+.index-overlay {
+    position: absolute;
+    left: 50px;
+}
+
+.carousel-size {
+    border-bottom: 2px das green;
+    width: 100%;
+}
+
+.hr {
+    color: white;
+}
+
+.pic-1 {
+    float: left;
+    margin-right: 20px;
+    border: 2px solid;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+.pic-2 {
+    float: right;
+    margin-right: 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin-right: 10px;
+}
+
+.border-list {
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 1px;
+}
+
+.footer-1 {
+    background-color: rgb(209, 209, 209);
+
+}
+
+.footer-2 {
+    background-color: rgb(58, 86, 211);
+    color: white;
+}
+
+.login-button {
+    opacity: 100%;
+}
+
+.logo {
+    text-decoration: none;
+}
+
+.logo:hover {
+    opacity: 0.5;
+}
+
+.card-custom {
+    max-width: 256px;
+
+}
+
+.card-img2 {
+    width: 256px;
+    height: 128px;
+    object-fit: cover;
+}
+
+.card-size {
+    height: 350px;
+}
+
+.profil-border {
+    border: 1px solid rgb(194, 194, 194);
+    border-radius: 2px;
+}
+
+.foto-anggota {
+    width: 128px;
+}

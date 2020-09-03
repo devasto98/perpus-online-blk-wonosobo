@@ -1,0 +1,25 @@
+login
+
+home
+
+buku
+-daftar buku
+-input-buku
+-edit-buku
+-pinjam-buku
+-hapus-buku
+
+anggota
+-daftar anggota
+-input-anggota-baru
+-edit profil oleh anggota
+-edit profil oleh admin
+
+-tentang
+
+-keranjang 
+-daftar buku yg dipinjam
+-status peminjaman
+
+-laporan/daftar peminjaman
+
